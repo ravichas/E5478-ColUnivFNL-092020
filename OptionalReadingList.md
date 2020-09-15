@@ -4,6 +4,7 @@
 * https://www.aiin.healthcare/topics/research/how-mit-researchers-used-ai-improve-drug-approvals 
 * https://economics.harvard.edu/files/economics/files/lo-andrew_paper-4_sbbi-4-20-18_predictive_15.pdf
 * https://www.nature.com/articles/s41573-019-0024-5
+* Convolutional Neural Network on Graphs for Learning Molecular Fingerprints: https://arxiv.org/abs/1509.09292
 
 ## Databases (focussed on small molecule data)
 * **PubChem:** https://pubchem.ncbi.nlm.nih.gov/
