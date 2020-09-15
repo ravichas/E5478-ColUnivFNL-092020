@@ -1,4 +1,4 @@
-#Optional Reading
+# Optional Reading
 
 ## List of Drug Discovery ML Papers: 
 * https://www.aiin.healthcare/topics/research/how-mit-researchers-used-ai-improve-drug-approvals 
