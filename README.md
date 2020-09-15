@@ -1,5 +1,5 @@
 # E5478-ColUnivFNL-092020
-Columbia University Machine-Learning Projectu using ATOM/AMPL
+Columbia University Machine-Learning Drug Discovery Project using ATOM/AMPL (https://github.com/ATOMconsortium/AMPL)
 
 ```
 Columbia University: 
