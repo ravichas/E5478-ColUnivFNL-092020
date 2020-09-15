@@ -7,7 +7,7 @@
 * **PubChem:** https://pubchem.ncbi.nlm.nih.gov/
 * **RCSB-PDB:** (3D biomolecule experimental DB; also contains cocrystallized small molecule): www.rcsb.org 
 * **NCATS:** https://ncats.nih.gov/expertise/covid19-open-data-portal
-* https://www.ebi.ac.uk/chembl/
+* **ChEMBL:** https://www.ebi.ac.uk/chembl/
 
 ## Chemoinformatics/chemistry focussed software
 * **AMPL:**  https://github.com/ATOMconsortium/AMPL
