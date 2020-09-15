@@ -15,3 +15,6 @@
 * **AMPL:**  https://github.com/ATOMconsortium/AMPL
 * **DeepChem:** https://github.com/deepchem
 * **RDKIT:** https://www.rdkit.org/
+* **OpenBabel:** http://openbabel.org/wiki/Main_Page 
+* **MolVS:** https://molvs.readthedocs.io/en/latest/#
+* 
