@@ -2,7 +2,9 @@
 Columbia University Machine-Learning Projectu using ATOM/AMPL
 
 ```
-Prof. Michael Robbins 
+Columbia University: 
+      Prof. Michael Robbins 
+      Malin Ortenblad
 FNLCR
 ATOM/AMPL team 
 ```
