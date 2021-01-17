@@ -2,14 +2,14 @@
 ### Frederick National Laboratory for Cancer Research (FNLCR)-Columbia University Industry Machine-Learning Drug Discovery Project
 
 <b> Columbia University: <b>
-* Prof. Michael Robbins 
+* Prof. Michael Robbins (https://www.linkedin.com/in/michaelrobbins/)
 * Malin Ortenblad (TA, Project Manager)
 * Mengyao He (student)
 * Vincent Fleury (student)
 * Jady Tian (student)
 
 <b> FNLCR </b>
- * S. Ravichandran, Ph.D., PMP (github.com/ravichas)
+ * S. Ravichandran, Ph.D., PMP (github.com/ravichas; http://sites.google.com/site/saka.ravi)
  * Naomi Ohashi, PMP (Project Manager)
 
 Here are the presentation and GitHub project links: 
