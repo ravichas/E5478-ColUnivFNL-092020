@@ -13,10 +13,10 @@
  * Naomi Ohashi, PMP (Project Manager)
 
 Here are the presentation and GitHub project links: 
-
+[like this](http://someurl)
 * Mengyao He
-   * Project Presentation: https://docs.google.com/presentation/d/1jz0lUDzsYSPi-d-zm9aZRZiEDOimzQ70BYCFRW5Sh_k/edit#slide=id.gb137a57165_2_26
-   * GitHub:  https://github.com/mengyaoo/FNL_GenesSelection
+   * Project Presentation: [Click here](https://docs.google.com/presentation/d/1jz0lUDzsYSPi-d-zm9aZRZiEDOimzQ70BYCFRW5Sh_k/edit#slide=id.gb137a57165_2_26)
+   * GitHub:  [click here](https://github.com/mengyaoo/FNL_GenesSelection)
 * Vincent Fleury
    * Project Presentation: https://drive.google.com/file/d/1aP1g9giHXgBPMOq4oDJ00v9Snye1ywHh/view?usp=sharing 
    * GitHub: (coming soon)
