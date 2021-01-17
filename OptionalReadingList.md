@@ -18,4 +18,3 @@
 * **RDKIT:** https://www.rdkit.org/
 * **OpenBabel:** http://openbabel.org/wiki/Main_Page 
 * **MolVS:** https://molvs.readthedocs.io/en/latest/#
-* 
