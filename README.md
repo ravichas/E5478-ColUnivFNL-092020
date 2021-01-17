@@ -3,11 +3,11 @@
 
 <b> Columbia University: <b>
 * Prof. Michael Robbins 
-* Malin Ortenblad (TA)
+* Malin Ortenblad (TA, Project Manager)
 * Mengyao He (student)
 * Vincent Fleury (student)
 * Jady Tian (student)
 
 <b> FNLCR </b>
- * S. Ravichandran (github.com/ravichas)
- * Naomi Ohashi
+ * S. Ravichandran, Ph.D., PMP (github.com/ravichas)
+ * Naomi Ohashi, PMP (Project Manager)
