@@ -1,10 +1,14 @@
 # E5478-ColUnivFNL-092020
-Columbia University Machine-Learning Drug Discovery Project using ATOM/AMPL (https://github.com/ATOMconsortium/AMPL)
+Columbia University Machine-Learning Drug Discovery Project
 
 ```
 Columbia University: 
       Prof. Michael Robbins 
-      Malin Ortenblad
+      Malin Ortenblad (TA)
+      Mengyao He (student)
+      Vincent Fleury (student)
+      Jady Tian (student)
 FNLCR
-ATOM/AMPL team 
+      S. Ravichandran
+      Naomi Ohashi
 ```
