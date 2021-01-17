@@ -1,5 +1,5 @@
 ## E5478-ColUnivFNL-092020
-### Columbia University Machine-Learning Drug Discovery Project
+### Frederick National Laboratory for Cancer Research (FNLCR)-Columbia University Industry Machine-Learning Drug Discovery Project
 
 <b> Columbia University: <b>
 * Prof. Michael Robbins 
