@@ -13,7 +13,6 @@
  * Naomi Ohashi, PMP (Project Manager)
 
 Here are the presentation and GitHub project links: 
-[like this](http://someurl)
 * <b>Mengyao He:</b>
    * Click [here](https://docs.google.com/presentation/d/1jz0lUDzsYSPi-d-zm9aZRZiEDOimzQ70BYCFRW5Sh_k/edit#slide=id.gb137a57165_2_26) to see the project presentation
    * Access project related GitHub repo [here](https://github.com/mengyaoo/FNL_GenesSelection)
