@@ -9,7 +9,7 @@
 * Jady Tian (student)
 
 <b> FNLCR </b>
- * S. Ravichandran, Ph.D., PMP (https://github.com/ravichas; https://sites.google.com/site/sakaravi/)
+ * S. Ravichandran, Ph.D., PMP (Mentor; https://github.com/ravichas; https://sites.google.com/site/sakaravi/)
  * Naomi Ohashi, PMP (Project Manager)
 
 Here are the presentation and GitHub project links: 
